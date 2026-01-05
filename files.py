@@ -19,7 +19,10 @@
 # position = file.tell()
 # print(position)
 
-file = open("files.txt", "r")
-file.seek(5) # Move to 5th byte from the start
-print(file.read())
-file.close()
+# file = open("files.txt", "r")
+# file.seek(5) # Move to 5th byte from the start
+# print(file.read())
+# file.close()
+
+
+
