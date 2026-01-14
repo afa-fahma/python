@@ -8,13 +8,13 @@
 # Output: -1(since "leeto" does not exist in "leetcode")
 # Input: haystack = "hello" , needle = "ll"
 # Output:?
-def a(hystack,needle):
-    if needle in hystack:
-      return hystack.find(needle)
+# def a(hystack,needle):
+#     if needle in hystack:
+#       return hystack.find(needle)
     
-    else:
-      return -1
-print(a("hello","li"))
+#     else:
+#       return -1
+# print(a("hello","li"))
 
 # 2. Given an integer n representing the number of pairs of parentheses, write a function to
 # generate all possible combinations of well-formed parentheses.
